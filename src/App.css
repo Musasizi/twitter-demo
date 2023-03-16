@@ -1,5 +1,9 @@
+body {
+  background-color: #64faeb;
+  margin: 5%;
+}
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
